@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @natperez
+- 👀 I’m a sound designer with some C# programming background
+- 🌱 I’m currently learning more about C# and sound designing
+- 💞️ I’m looking to collaborate with video game devs or films
+- 📫 You can reach me at my Linkedin: https://www.linkedin.com/in/nathaniel-perez-05224417a/
